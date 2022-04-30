@@ -18,7 +18,7 @@ If you're working on device-specific code, you might need to build them as well.
 Example:
 
 ```
-mmm -j frameworks/native/cmds/dumpstate device/acme/secret_device/dumpstate/ hardware/interfaces/dumpstate
+mmm -j frameworks/native/cmds/dumpstate device/csc/secret_device/dumpstate/ hardware/interfaces/dumpstate
 ```
 
 ## To build, deploy, and take a bugreport
